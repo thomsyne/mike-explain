@@ -1,2 +1,2 @@
 # mike-explain
-Teaching Mike git
+Teaching Tomi git
